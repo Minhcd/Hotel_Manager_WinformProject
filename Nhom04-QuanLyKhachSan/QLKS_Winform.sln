@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLKS_Winform", "QLKS_Winform\QLKS_Winform.csproj", "{1EBF9BFC-50A3-470E-9502-451F5C1B1F61}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "HotelManager", "HotelManager\HotelManager.aiproj", "{B28105B5-D73C-41B8-9880-6C3F19636CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DefaultBuild|Any CPU = DefaultBuild|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EBF9BFC-50A3-470E-9502-451F5C1B1F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBF9BFC-50A3-470E-9502-451F5C1B1F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EBF9BFC-50A3-470E-9502-451F5C1B1F61}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBF9BFC-50A3-470E-9502-451F5C1B1F61}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
+		{1EBF9BFC-50A3-470E-9502-451F5C1B1F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EBF9BFC-50A3-470E-9502-451F5C1B1F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B28105B5-D73C-41B8-9880-6C3F19636CFF}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{B28105B5-D73C-41B8-9880-6C3F19636CFF}.Debug|Any CPU.Build.0 = DefaultBuild
+		{B28105B5-D73C-41B8-9880-6C3F19636CFF}.DefaultBuild|Any CPU.ActiveCfg = DefaultBuild
+		{B28105B5-D73C-41B8-9880-6C3F19636CFF}.DefaultBuild|Any CPU.Build.0 = DefaultBuild
+		{B28105B5-D73C-41B8-9880-6C3F19636CFF}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{B28105B5-D73C-41B8-9880-6C3F19636CFF}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F707198A-E45D-476C-9D10-5DFCF5D3A5EF}
+	EndGlobalSection
+EndGlobal
